@@ -21,7 +21,6 @@ Half of what I make is for work, the other half is just for fun, and often times
 
 🪄 **Tech I work with**
 `Python` · `GDScript` · `Godot` · `Blender` · `Nuke` · `Maya` · `Tractor 2` · `FL Studio` · `Linux` · `Git`  
-and a lot of random scripts that make pipelines or games run smoother.
 
 ---
 
@@ -32,7 +31,7 @@ and a lot of random scripts that make pipelines or games run smoother.
 
 ---
 
-📫 Let's connect:
+📫 **Let's connect:**
 - https://joshs.tech
 - joshua@ka1schmidt.de
 
