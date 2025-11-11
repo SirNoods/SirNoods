@@ -5,7 +5,7 @@ Half of what I make is for work, the other half is just for fun, and often times
 
 💻 **What I do**
 - 🧰 Build creative and technical tools in **Python** for automation, pipelines, and workflow improvements  
-- 🎮 Develop games in Godot (GDScript) — currently working on [Spellbrawl](https://github.com/SirNoods/spellbrawl), a chaotic wizard fighting game  
+- 🎮 Develop games in Godot (GDScript), currently working on [Spellbrawl](https://github.com/SirNoods/spellbrawl), a chaotic wizard fighting game  
 - 🎶 Music production, sometimes experimental, sometimes not as much
 
 🧠 **Stuff I enjoy**
