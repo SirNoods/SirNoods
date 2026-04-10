@@ -20,7 +20,7 @@ Half of what I make is for work, the other half is just for fun, and often times
 - [**strudels**](https://github.com/SirNoods/strudels) — a collection of experiments with [strudel.cc](https://strudel.cc/), a live-coding environment for music
 
 🪄 **Tech I work with**
-`Python` · `GDScript` · `Godot` · `Blender` · `Nuke` · `Maya` · `Tractor 2` · `FL Studio` · `Linux` · `Git`  
+`Nix` · `Python` · `GDScript` · `Godot` · `Blender` · `Nuke` · `Maya` · `Tractor 2` · `FL Studio` · `Linux` · `Git`  
 
 ---
 
