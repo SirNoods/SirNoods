@@ -5,7 +5,6 @@ Half of what I make is for work, the other half is just for fun, and often times
 
 💻 **What I do**
 - 🧰 Build creative and technical tools in **Python** for automation, pipelines, and workflow improvements  
-- 🎮 Develop games in Godot (GDScript), currently working on [Spellbrawl](https://github.com/SirNoods/spellbrawl), a chaotic wizard fighting game  
 - 🎶 Music production, sometimes experimental, sometimes not as much
 
 🧠 **Stuff I enjoy**
@@ -16,7 +15,6 @@ Half of what I make is for work, the other half is just for fun, and often times
 
 🧑‍🔧 **Current Projects**
 - [**govee-cli**](https://github.com/SirNoods/govee-cli) — control your Govee lights from the terminal  
-- [**strudels**](https://github.com/SirNoods/strudels) — a collection of experiments with [strudel.cc](https://strudel.cc/), a live-coding environment for music
 - [**Caitha**](https://caithawiki.joshs.tech/) — my ttrpg setting wiki
 
 🪄 **Tech I work with**
@@ -25,6 +23,4 @@ Half of what I make is for work, the other half is just for fun, and often times
 ---
 
 📫 **Let's connect:**
-- https://joshs.tech
 - joshua@ka1schmidt.de
-
